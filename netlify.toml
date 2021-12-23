@@ -1,0 +1,5 @@
+[[redirects]]
+    from = "https://naughty-keller-e9fdca.netlify.app/"
+    to = "https://teamgarf.io"
+    status = 301
+    force = true
